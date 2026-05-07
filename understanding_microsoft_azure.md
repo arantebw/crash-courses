@@ -2,4 +2,5 @@
 
 ## Azure Management Essentials
 
-- [ ] [Azure Economics](https://campus.datacamp.com/courses/understanding-microsoft-azure/azure-management-essentials?ex=5)
+- [x] [Azure Economics](https://campus.datacamp.com/courses/understanding-microsoft-azure/azure-management-essentials?ex=5)
+- [ ] [Pricing Models](https://campus.datacamp.com/courses/understanding-microsoft-azure/azure-management-essentials?ex=6&skip_variants_modal=true)
